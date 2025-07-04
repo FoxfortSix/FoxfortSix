@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @FoxfortSix
-- 👀 I’m interested in the world of design
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me everybody can be partner with me
-
-<!---
-FoxfortSix/FoxfortSix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi im Azka, im a Computer Science undergraduate at Universitas Pendidikan Indonesia, i have a strong interest in data science field. I am proficient in R programming language, Python, SQL, and Excel for data processing and analysis. I have also worked with Tableau for data visualization and reporting. My technical foundation is complemented by experience in structured problem solving, team collaboration, and academic communication. Currently, I am focusing on exploratory data analysis (EDA), data storytelling, and predictive modeling through hands-on projects and independent learning. I am actively building a portfolio that reflects my analytical capabilities and attention to detail.
